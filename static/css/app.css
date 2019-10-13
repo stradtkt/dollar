@@ -16,6 +16,21 @@ body {
 .card-img-top {
     height: 155px;
 }
+.buttons {
+    margin: auto;
+}
+span.amount-of-dollars {
+    margin-left: -5.3px;
+    margin-right: -4.2px;
+    background: #222;
+    position: relative;
+    top: 2px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
 .google-ads-container {
     height: 120px;
     width: 100%;
