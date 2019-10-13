@@ -2,3 +2,45 @@
 body {
     background: #e5e5e5;
 }
+.nav-item {
+    list-style-type: none;
+    text-align: center;
+}
+.nav-item .nav-link {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.carousel-inner {
+    height: 95vh;
+}
+.card-img-top {
+    height: 155px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.google-ads-container {
+    height: 120px;
+    width: 100%;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+footer {
+    height: 150px;
+    width: 100%;
+}
